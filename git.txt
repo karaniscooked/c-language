@@ -1,0 +1,7 @@
+git clone <repo link>               // from website
+
+git add .                           //to add files
+
+git commit -m "your message"        //commiting
+
+git push
