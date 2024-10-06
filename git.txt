@@ -5,3 +5,5 @@ git add .                           //to add files
 git commit -m "your message"        //commiting
 
 git push
+
+git lex                            // presented by message`
